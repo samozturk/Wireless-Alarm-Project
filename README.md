@@ -1,4 +1,4 @@
-# Wireless-Alarm-Project
+# Smart Bicycle Project
 My own design of wireless alarm project for my bicycle with arduino.
 
 1st Commit:
@@ -13,6 +13,6 @@ Added nrf24l01 wireless module to send me a message if sensor detects a vibratio
 nrf24l01 datasheet: https://components101.com/wireless/nrf24l01-pinout-features-datasheet
 
 
-I will add OLED screen and linear hall module next. Linear hall module will send signal everytime a magnet passes which is attached to tire. I will use 2 * pi * r formula to calculate distance because tire is a circle :)
+I decided to use cheap speedometer instead of doing it.
 
 
